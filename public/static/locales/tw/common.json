@@ -1,0 +1,16 @@
+{
+  "NAV": {
+    "DONATE": "募款",
+    "FAQ": "常見問答",
+    "CONTACT": "聯絡"
+  },
+  "DOWNLOAD_NOW": "馬上下載",
+  "FOOTER": {
+    "DOWNLOAD": "下載",
+    "INFORMATION": "資訊",
+    "POLICIES": "政策",
+    "PRIVACY_POLICY": "隱私政策",
+    "LANGUAGES": "語言",
+    "SOURCE_CODE": "程式碼"
+  }
+}

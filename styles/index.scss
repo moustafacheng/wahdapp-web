@@ -1,0 +1,138 @@
+@import "./nprogress.scss";
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #fefafb;
+  min-width: fit-content;
+  overflow-x: hidden;
+  font-family: Sen, Noto Sans TC;
+}
+
+a {
+  text-decoration: none;
+}
+
+@mixin header($color, $letterSpacing) {
+  font-size: 54px;
+  font-weight: bold;
+  letter-spacing: $letterSpacing;
+  color: $color;
+  margin-bottom: 15px;
+
+  @media screen and (max-width: 1024px) {
+    font-size: 40px;
+  }
+  @media screen and (max-width: 768px) {
+    font-size: 30px;
+  }
+}
+
+@mixin subheader($color, $letterSpacing) {
+  font-size: 28px;
+  line-height: 1.14;
+  letter-spacing: $letterSpacing;
+  color: $color;
+
+  @media screen and (max-width: 1024px) {
+    font-size: 24px;
+  }
+  @media screen and (max-width: 768px) {
+    font-size: 18px;
+  }
+}
+
+.top-header {
+  .background-cover {
+    position: relative;
+    min-height: 600px;
+    @media screen and (max-width: 1024px) {
+      min-height: 300px;
+    }
+  }
+
+  .header-wrapper {
+    width: 100%;
+    padding-top: 80px;
+
+    @media screen and (max-width: 568px) {
+      padding-top: 100px;
+    }
+  }
+
+  .header-block {
+
+    h1 {
+      @include header(#ffffff, 2px);
+      text-shadow: 0 2px 24px rgba(0, 0, 0, 0.55);
+    }
+
+    span.subheader {
+      @include subheader(#ffffff, 1.29px);
+      text-shadow: 0 2px 24px rgba(0, 0, 0, 0.5);
+    }
+  }
+
+  .header-button {
+    position: relative;
+    z-index: 2;
+    bottom: -55px;
+    width: 100%;
+    text-align: left;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 70px;
+
+    @media screen and (max-width: 1024px) {
+      left: 0;
+      bottom: -35px;
+      width: 100%;
+    }
+
+    @media screen and (max-width: 768px) {
+      left: 0;
+      bottom: -30px;
+      width: 100%;
+      text-align: center;
+    }
+
+    @media screen and (max-width: 568px) {
+      left: 0;
+      bottom: -30px;
+      padding: 0 25px;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+
+    .play-store {
+      margin-right: 25px;
+
+      @media screen and (max-width: 568px) {
+        margin-right: 0;
+        margin-top: 10px;
+      }
+    }
+
+    .app-store {
+      @media screen and (max-width: 568px) {
+        margin-top: 10px;
+      }
+    }
+  }
+}
+
+hr {
+  width: 120px;
+  height: 5px;
+  border-radius: 100px;
+  background-image: linear-gradient(115deg,#6DC7B0, #78c8ef 102%);
+  text-align: center;
+  border: none;
+  margin: 0 auto;
+}

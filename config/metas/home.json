@@ -1,0 +1,113 @@
+{
+  "en": {
+    "title": "Wahdapp | Invite people to success",
+    "locale": "en",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Easily find out congregational prayers near you"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | Invite people to success"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:description",
+        "content": "Easily find out congregational prayers near you"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://wahd.app",
+        "hrefLang": "x-default"
+      }
+    ]
+  },
+  "tw": {
+    "title": "Wahdapp | 邀請穆斯林走向成功之路",
+    "locale": "zh_TW",
+    "meta": [
+      {
+        "name": "description",
+        "content": "輕鬆找出您附近正在舉行的禮拜"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | 邀請穆斯林走向成功之路"
+      },
+      {
+        "property": "og:locale",
+        "content": "zh-Hant"
+      },
+      {
+        "property": "og:description",
+        "content": "輕鬆找出您附近正在舉行的禮拜"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app/tw"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app/tw"
+      },
+      {
+        "rel": "alternate",
+        "href": " https://wahd.app/tw",
+        "hrefLang": "zh-Hant"
+      }
+    ]
+  },
+  "cn": {
+    "title": "Wahdapp | 邀请穆斯林走向成功之路",
+    "locale": "zh_CN",
+    "meta": [
+      {
+        "name": "description",
+        "content": "轻鬆找出您附近正在举行的礼拜"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | 邀请穆斯林走向成功之路"
+      },
+      {
+        "property": "og:locale",
+        "content": "zh-Hans"
+      },
+      {
+        "property": "og:description",
+        "content": "轻鬆找出您附近正在举行的礼拜"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app/cn"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app/cn"
+      },
+      {
+        "rel": "alternate",
+        "href": " https://wahd.app/cn",
+        "hrefLang": "zh-Hans"
+      }
+    ]
+  }
+}

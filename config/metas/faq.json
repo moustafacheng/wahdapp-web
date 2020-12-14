@@ -1,0 +1,113 @@
+{
+  "en": {
+    "title": "Wahdapp｜FAQ",
+    "locale": "en",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Answers to Your Questions"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp｜FAQ"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:description",
+        "content": "Answers to Your Questions"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://wahd.app",
+        "hrefLang": "x-default"
+      }
+    ]
+  },
+  "tw": {
+    "title": "Wahdapp | 常見問答",
+    "locale": "zh_TW",
+    "meta": [
+      {
+        "name": "description",
+        "content": "各種問題的答案"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | 常見問答"
+      },
+      {
+        "property": "og:locale",
+        "content": "zh-Hant"
+      },
+      {
+        "property": "og:description",
+        "content": "各種問題的答案"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app/tw"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app/tw"
+      },
+      {
+        "rel": "alternate",
+        "href": " https://wahd.app/tw",
+        "hrefLang": "zh-Hant"
+      }
+    ]
+  },
+  "cn": {
+    "title": "Wahdapp | 常见问答",
+    "locale": "zh_CN",
+    "meta": [
+      {
+        "name": "description",
+        "content": "各种问题的答案"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | 常见问答"
+      },
+      {
+        "property": "og:locale",
+        "content": "zh-Hans"
+      },
+      {
+        "property": "og:description",
+        "content": "各种问题的答案"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app/cn"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app/cn"
+      },
+      {
+        "rel": "alternate",
+        "href": " https://wahd.app/cn",
+        "hrefLang": "zh-Hans"
+      }
+    ]
+  }
+}

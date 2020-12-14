@@ -1,0 +1,41 @@
+{
+  "HEADER": {
+    "TITLE": "The Most Efficient Way to Gather for Prayers",
+    "SUBTITLE": "Easily find out congregational prayers near you"
+  },
+  "BENEFITS": {
+    "TITLE": "Application Features",
+    "LIST": [
+      {
+        "TITLE": "Gender Segregation",
+        "DESC": "Distinct features are provided to female users in the usage of the application, including gender filtering and invitation visibility."
+      },
+      {
+        "TITLE": "Multilingual",
+        "DESC": "The application supports various languages, including Chinese, French, Turkish, Arabic, Russian, and even more to come. Feel free to contact us if you can help us translate into other languages!"
+      },
+      {
+        "TITLE": "User Privacy",
+        "DESC": "The mobile application does not run any ads, and is open-source for the sake of information transparency. You may find the link to the source code at the bottom of the page."
+      }
+    ]
+  },
+  "EXPLORE": {
+    "TITLE": "Explore About Muslim Communities",
+    "LIST": [
+      {
+        "TITLE": "Easy Mosque Searching",
+        "DESC": "There could be places that are unexpectedly friendly and convenient for Muslims to pray their five daily prayers!"
+      },
+      {
+        "TITLE": "Instant Gathering",
+        "DESC": "In cases such as funerals where people need to gather as many people as possible within the shortest amount of time, Wahdapp is an unprecedented option to help gathering people for prayer."
+      },
+      {
+        "TITLE": "Community Bond",
+        "DESC": "Wahdapp aims on helping Muslims to create a deeper connection with their own communities and a sense of unity."
+      }
+    ]
+  },
+  "DOWNLOAD": "Download"
+}

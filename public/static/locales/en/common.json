@@ -1,0 +1,16 @@
+{
+  "NAV": {
+    "DONATE": "Donate",
+    "FAQ": "FAQ",
+    "CONTACT": "Contact"
+  },
+  "DOWNLOAD_NOW": "Download Now",
+  "FOOTER": {
+    "DOWNLOAD": "DOWNLOAD",
+    "INFORMATION": "INFORMATION",
+    "POLICIES": "POLICIES",
+    "PRIVACY_POLICY": "Privacy Policy",
+    "LANGUAGES": "LANGUAGES",
+    "SOURCE_CODE": "Source Code"
+  }
+}
