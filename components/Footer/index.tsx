@@ -51,6 +51,7 @@ function Footer() {
               <a onClick={() => i18n.changeLanguage('en')}>English</a>
               <a onClick={() => i18n.changeLanguage('tw')}>繁體中文</a>
               <a onClick={() => i18n.changeLanguage('cn')}>简体中文</a>
+              <a onClick={() => i18n.changeLanguage('id')}>Bahasa Indonesia</a>
             </div>
             <div>
               <div className="trademark">

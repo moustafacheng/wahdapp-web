@@ -1,0 +1,41 @@
+{
+  "HEADER": {
+    "TITLE": "Cara Paling Inovatif untuk Berkumpul Melakukan Sholat Bersama",
+    "SUBTITLE": "Cara yang mudah untuk mencari sholat berjamaah di area anda"
+  },
+  "BENEFITS": {
+    "TITLE": "Fitur-Fitur Aplikasi",
+    "LIST": [
+      {
+        "TITLE": "Pemisahan Lawan Jenis",
+        "DESC": "Fitur yang berbeda disediakan untuk pengguna wanita dalam menggunakan aplikasi, termasuk menyaring jenis kelamin dan visabilitas undangan."
+      },
+      {
+        "TITLE": "Multibahasa",
+        "DESC": "Aplikasi ini tersedia dalam beberapa bahasa seperti Bahasa Cina, Perancis, Turki, Arab, Rusia dan lebih banyak lagi! Kami akan sangat mengapresiasi jika anda ingin membantu kami dalam menerjemahkan aplikasi ini dalam bahasa yang lainnya! Anda dapat mengotak kami untuk detail yang lebih lanjut"
+      },
+      {
+        "TITLE": "Privasi Pengguna",
+        "DESC": "Aplikasi seluler kami tidak menjalankan iklan apapun, dan bersifat open-source demi transparansi informasi. Anda dapat menemukan link untuk source code pada bagian bawah halaman ini."
+      }
+    ]
+  },
+  "EXPLORE": {
+    "TITLE": "Jelajahi Tentang Komunitas Muslim",
+    "LIST": [
+      {
+        "TITLE": "Kemudahan dalam mencari Masjid",
+        "DESC": "Diluar sana mungkin terdapat tempat yang luar biasa ramah dan mudah untuk muslim melaksanakan sholat lima waktu!"
+      },
+      {
+        "TITLE": "Pertemuan Instant",
+        "DESC": "Dalam kasus seperti pemakaman dimana membutuhkan banyak orang dalam waktu yang singkat, Wahdapp adalah opsi yang tepat dalam membantu mengumpulkan banyak orang untuk sholat jenazah."
+      },
+      {
+        "TITLE": "Ikatan Komunitas",
+        "DESC": "Wahdapp bertujuan untuk membantu para muslim untuk menciptakan koneksi yang lebih dalam di komunitas mereka dan juga relasi yang lebih dekat dengan satu sama lainnya."
+      }
+    ]
+  },
+  "DOWNLOAD": "Download"
+}

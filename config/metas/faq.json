@@ -1,6 +1,6 @@
 {
   "en": {
-    "title": "Wahdapp｜FAQ",
+    "title": "Wahdapp | FAQ",
     "locale": "en",
     "meta": [
       {
@@ -9,7 +9,7 @@
       },
       {
         "property": "og:title",
-        "content": "Wahdapp｜FAQ"
+        "content": "Wahdapp | FAQ"
       },
       {
         "property": "og:locale",
@@ -107,6 +107,43 @@
         "rel": "alternate",
         "href": " https://wahd.app/cn",
         "hrefLang": "zh-Hans"
+      }
+    ]
+  },
+  "id": {
+    "title": "Wahdapp | FAQ",
+    "locale": "id",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Answers to Your Questions"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | FAQ"
+      },
+      {
+        "property": "og:locale",
+        "content": "id_ID"
+      },
+      {
+        "property": "og:description",
+        "content": "Answers to Your Questions"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://wahd.app",
+        "hrefLang": "x-default"
       }
     ]
   }

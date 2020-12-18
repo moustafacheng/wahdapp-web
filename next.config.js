@@ -6,6 +6,7 @@ const { nextI18NextRewrites } = require('next-i18next/rewrites');
 const localeSubpaths = {
   cn: 'cn',
   tw: 'tw',
+  id: 'id',
 };
 
 module.exports = withPlugins(

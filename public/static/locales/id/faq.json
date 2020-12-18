@@ -1,0 +1,34 @@
+{
+  "HEADER": "Jawaban untuk Pertanyaan Anda",
+  "SUBHEADER": "Cari tahu disini",
+  "FAQS": [
+    {
+      "Q": "Apa itu Wahdapp?",
+      "A": "Wahdapp adalah aplikasi selluler untuk orang muslim yang memudahkan untuk mencari atau mengundang sekelompok orang untuk sholat berjamaah bersama di area yang sama. Para pengguna dapat bergabung ataupun mengundang oranglain untuk sholat lima waktu, sholat jumat, bahkan sholat jenazah sekalipun."
+    },
+    {
+      "Q": "Bagaimana caranya untuk mendaftar Wahdapp?",
+      "A": "Anda dapat mengunduh Wahdapp melalui Google Play Store jika anda pengguna Android dan App Store jika anda pengguna iOS. Setelah aplikasi sudah terpasang, anda dapat mendaftar melalui email atau melalui akun Google.\n\n➤ Jika anda memilih untuk mendaftar menggunakan email, anda harus mengisi beberapa informasi seperti nama dan jenis kelamin anda. Setelah membuat akun, anda akan menerima email konfirmasi pada inbox anda. Anda akan dapat segera menggunakan aplikasi setelah mengklik link konfirmasi yang tersedia pada email anda.\n\n➤ Jika anda memilih untuk mendaftar menggunakan akun Google, anda hanya akan harus memilih jenis kelamin sebelum menggunakan aplikasi ini."
+    },
+    {
+      "Q": "Dimana saya dapat menggunakan Wahdapp?",
+      "A": "Wahdapp terbuka untuk semua umat muslim di dunia. Anda dapat menggunakannya kapanpun dan dimanapun anda berada selama anda memiliki akses ke internet!"
+    },
+    {
+      "Q": "Bagaimana saya dapat melihat sholat di daerah saya?",
+      "A": "Terdapat dua pilihan:\n\n➤ Anda dapat melihat daftar sholat yang akan dilakukan di dekat daerah anda di bagian beranda.\n\n➤ Pada bagian peta, terdapat tombol di bagian atas peta yang tertulis \"CARI DI AREA INI\". Setelah mengklik tombol tersebut, sistem akan mencari undangan sholat terdekat."
+    },
+    {
+      "Q": "Bagaimana saya dapat mengundang orang lain untuk bergabung sholat bersama?",
+      "A": "Pertama-tama, pergi ke layar peta. Disana terdapat 4 pilihan yang dapat anda tentukan dimana sholat akan dilaksanakan:\n\n➤ Lokasi anda sekarang. Terdapat tombol mengambang pada pojok kanan atas dari layar peta anda, lalu pin penanda akan muncul di lokasi anda sekarang setelah anda mengklik tombol.\n\n➤ merincis dengan cara menahan layar. lalu tahan dan anda dapat melihat pin penanda muncul. Anda juga dapat menarik pin penanda setelah menekan layar pada pin penanda.\n\n➤ Choosing an already registered place on Google Maps. There are a lot of places on Google Maps which have their names registered, such as schools, buildings, and even mosques. You can select any of these places by simply pressing on them.\n\n➤ Choosing the exact same location as one of the past prayer invitations. After querying the nearby prayers on the map, you should be able to see green dots which represent the locations which some of the past prayers were performed. You will have the options to select the exact same spot after pressing any those green dots."
+    },
+    {
+      "Q": "Saya adalah wanita. Dapatkah saya untuk mengundang sholat bersama?",
+      "A": "Tentu saja. Setelah anda membuat undangan untuk sholat, hanya pengguna wanita lainya yang dapat melihat undangan tersebut."
+    },
+    {
+      "Q": "Siapa saja yang dapat melihat undangan sholat saya?",
+      "A": "Itu semua bergantung pada jenis kelamin dan preferensi anda.\n\nJika anda adalah pria, maka undangan sholat anda dapat dilihat oleh pria dan wanita. Namun, wanita memiliki pilihan untuk menyaring undangan yang mana mereka bisa memilih untuk menerima undangan dari pengguna wanita lainnya. Secara default, wanita hanya dapat melihat undangan dari pengguna pria bila jumlah peserta melebihi 2. Pengguna wanita juga dapat memilih untuk menambah jumlah peserta sesuai keinginan."
+    }
+  ]
+}

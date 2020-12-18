@@ -109,5 +109,42 @@
         "hrefLang": "zh-Hans"
       }
     ]
+  },
+  "id": {
+    "title": "Wahdapp | Cara Paling Inovatif untuk Berkumpul Melakukan Sholat Bersama",
+    "locale": "id",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Cara yang mudah untuk mencari sholat berjamaah di area anda"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | Cara Paling Inovatif untuk Berkumpul Melakukan Sholat Bersama"
+      },
+      {
+        "property": "og:locale",
+        "content": "id_ID"
+      },
+      {
+        "property": "og:description",
+        "content": "Cara yang mudah untuk mencari sholat berjamaah di area anda"
+      },
+      {
+        "property": "og:url",
+        "content": "https://wahd.app"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://wahd.app",
+        "hrefLang": "x-default"
+      }
+    ]
   }
 }
