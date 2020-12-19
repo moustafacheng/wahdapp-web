@@ -1,8 +1,16 @@
 import { useTranslation, Link, i18n } from 'i18n';
+import Select from 'react-select';
+import { languages } from 'constants/languages';
 import './style.scss';
+import { useEffect, useMemo } from 'react';
 
 function Footer() {
   const { t } = useTranslation(['common']);
+  const currentLang = useMemo(
+    () => languages.find((lng) => lng.code === i18n.language),
+    [i18n.language]
+  );
+
   return (
     <footer>
       <div className="background-cover">
@@ -30,7 +38,7 @@ function Footer() {
               <a>{t('NAV.FAQ')}</a>
             </Link>
             <a
-              href="https://github.com/wahdapp/Wahdapp"
+              href="https://github.com/wahdapp"
               target="_blank"
               rel="noreferrer"
             >
@@ -48,10 +56,37 @@ function Footer() {
           <div className="footer-col down">
             <div className="footer-col">
               <span className="label">{t('FOOTER.LANGUAGES')}</span>
-              <a onClick={() => i18n.changeLanguage('en')}>English</a>
-              <a onClick={() => i18n.changeLanguage('tw')}>繁體中文</a>
-              <a onClick={() => i18n.changeLanguage('cn')}>简体中文</a>
-              <a onClick={() => i18n.changeLanguage('id')}>Bahasa Indonesia</a>
+              <Select
+                defaultValue={{
+                  value: currentLang.code,
+                  label: currentLang.label,
+                }}
+                options={languages.map((lng) => ({
+                  value: lng.code,
+                  label: lng.label,
+                }))}
+                onChange={({ value }) => {
+                  i18n.changeLanguage(value);
+                }}
+                isSearchable={false}
+                styles={{
+                  singleValue: (provided) => ({
+                    ...provided,
+                    fontFamily: 'Sen',
+                  }),
+                  option: (provided, state) => ({
+                    ...provided,
+                    fontFamily: 'Sen',
+                    backgroundColor: state.isSelected ? '#6dc7b0' : '#fff',
+                    '&:hover': state.isSelected
+                      ? {}
+                      : {
+                          backgroundColor: '#e0e0e0',
+                          borderColor: '#e0e0e0',
+                        },
+                  }),
+                }}
+              />
             </div>
             <div>
               <div className="trademark">

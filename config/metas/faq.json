@@ -4,8 +4,12 @@
     "locale": "en",
     "meta": [
       {
-        "name": "description",
+        "property": "description",
         "content": "Answers to Your Questions"
+      },
+      {
+        "property": "og:image",
+        "content": "/assets/banner.jpg"
       },
       {
         "property": "og:title",
@@ -41,8 +45,12 @@
     "locale": "zh_TW",
     "meta": [
       {
-        "name": "description",
+        "property": "description",
         "content": "各種問題的答案"
+      },
+      {
+        "property": "og:image",
+        "content": "/assets/banner.jpg"
       },
       {
         "property": "og:title",
@@ -78,8 +86,12 @@
     "locale": "zh_CN",
     "meta": [
       {
-        "name": "description",
+        "property": "description",
         "content": "各种问题的答案"
+      },
+      {
+        "property": "og:image",
+        "content": "/assets/banner.jpg"
       },
       {
         "property": "og:title",
@@ -115,8 +127,12 @@
     "locale": "id",
     "meta": [
       {
-        "name": "description",
+        "property": "description",
         "content": "Answers to Your Questions"
+      },
+      {
+        "property": "og:image",
+        "content": "/assets/banner.jpg"
       },
       {
         "property": "og:title",

@@ -9,8 +9,8 @@ import Flip from 'react-reveal/Flip';
 import Zoom from 'react-reveal/Zoom';
 import { NextPage } from 'next';
 import { PageContext } from 'types';
-import 'styles/home.scss';
 import { TFunction } from 'next-i18next';
+import 'styles/home.scss';
 
 function goto(_target = '', offset = 0): void {
   scroller.scrollTo(_target, {
