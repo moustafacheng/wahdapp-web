@@ -8,10 +8,6 @@
         "content": "Answers to Your Questions"
       },
       {
-        "property": "og:image",
-        "content": "/assets/banner.jpg"
-      },
-      {
         "property": "og:title",
         "content": "Wahdapp | FAQ"
       },
@@ -47,10 +43,6 @@
       {
         "property": "description",
         "content": "各種問題的答案"
-      },
-      {
-        "property": "og:image",
-        "content": "/assets/banner.jpg"
       },
       {
         "property": "og:title",
@@ -90,10 +82,6 @@
         "content": "各种问题的答案"
       },
       {
-        "property": "og:image",
-        "content": "/assets/banner.jpg"
-      },
-      {
         "property": "og:title",
         "content": "Wahdapp | 常见问答"
       },
@@ -129,10 +117,6 @@
       {
         "property": "description",
         "content": "Answers to Your Questions"
-      },
-      {
-        "property": "og:image",
-        "content": "/assets/banner.jpg"
       },
       {
         "property": "og:title",

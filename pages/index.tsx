@@ -179,7 +179,7 @@ const Home: NextPage<Props> = ({ language }) => {
 
       <Download />
 
-      <Footer />
+      <Footer lang={lang} />
     </div>
   );
 };

@@ -6,7 +6,9 @@ import { i18n } from 'i18n';
 import { NextPage } from 'next';
 import 'styles/faq.scss';
 
-const Privacy: NextPage<Props> = () => {
+const Privacy: NextPage<Props> = ({ language }) => {
+  const lang = i18n.language ? i18n.language : language ? language : 'en';
+
   return (
     <div id="faq">
       <Head>
@@ -463,7 +465,7 @@ const Privacy: NextPage<Props> = () => {
 
       <Download />
 
-      <Footer />
+      <Footer lang={lang} />
     </div>
   );
 };

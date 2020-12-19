@@ -62,7 +62,7 @@ const FAQ: NextPage<Props> = ({ language }) => {
 
       <Download />
 
-      <Footer />
+      <Footer lang={lang} />
     </div>
   );
 };

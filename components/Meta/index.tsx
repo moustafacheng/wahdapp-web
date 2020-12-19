@@ -10,6 +10,7 @@ const Meta = ({ title, locale, meta, link }) => (
     {link.map((info, i) => (
       <meta key={i} {...info} />
     ))}
+    <meta property="og:image" content="/assets/banner.jpg" />
   </Head>
 );
 
