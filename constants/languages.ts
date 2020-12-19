@@ -1,7 +1,15 @@
 export const languages = [
   {
+    code: 'id',
+    label: 'Bahasa Indonesia',
+  },
+  {
     code: 'en',
     label: 'English',
+  },
+  {
+    code: 'fr',
+    label: 'Français',
   },
   {
     code: 'tw',
@@ -10,9 +18,5 @@ export const languages = [
   {
     code: 'cn',
     label: '简体中文',
-  },
-  {
-    code: 'id',
-    label: 'Bahasa Indonesia',
   },
 ];

@@ -132,17 +132,54 @@
       },
       {
         "property": "og:url",
+        "content": "https://wahd.app/id"
+      }
+    ],
+    "link": [
+      {
+        "rel": "canonical",
+        "href": "https://wahd.app/id"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://wahd.app/id",
+        "hrefLang": "x-default"
+      }
+    ]
+  },
+  "fr": {
+    "title": "Wahdapp | La Manière la Plus Innovante de se Rassembler pour les Prières",
+    "locale": "id",
+    "meta": [
+      {
+        "property": "description",
+        "content": "Trouvez facilement les prières en congrégation dans votre région"
+      },
+      {
+        "property": "og:title",
+        "content": "Wahdapp | La Manière la Plus Innovante de se Rassembler pour les Prières"
+      },
+      {
+        "property": "og:locale",
+        "content": "fr_FR"
+      },
+      {
+        "property": "og:description",
+        "content": "Trouvez facilement les prières en congrégation dans votre région"
+      },
+      {
+        "property": "og:url",
         "content": "https://wahd.app"
       }
     ],
     "link": [
       {
         "rel": "canonical",
-        "href": "https://wahd.app"
+        "href": "https://wahd.app/fr"
       },
       {
         "rel": "alternate",
-        "href": "https://wahd.app",
+        "href": "https://wahd.app/fr",
         "hrefLang": "x-default"
       }
     ]

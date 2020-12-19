@@ -1,0 +1,34 @@
+{
+  "HEADER": "Réponses à vos Questions",
+  "SUBHEADER": "Découvrez-les ici",
+  "FAQS": [
+    {
+      "Q": "Qu'est-ce que Wahdapp?",
+      "A": "Wahdapp est une application mobile permettant aux musulmans de trouver ou d'inviter facilement des groupes de personnes à prier ensemble dans leur région. Les utilisateurs peuvent se joindre ou inviter pour les cinq prières quotidiennes, la prière du vendredi (Jumuah) et même la prière funéraire (Janazah)."
+    },
+    {
+      "Q": "Comment puis-je m'inscrire à Wahdapp?",
+      "A": "Vous devez d'abord télécharger l'application mobile de Wahdapp via Google Play Store si vous êtes un utilisateur d'Android ou via App Store si vous êtes un utilisateur d'iOS. Une fois que vous avez installé l'application, vous pouvez choisir de vous inscrire avec votre propre adresse email ou avec un compte de Google existant. \n\n➤ Si vous choisissez de vous inscrire avec un email, vous devrez remplir certaines de vos informations personnelles , y compris votre nom et votre sexe. Après avoir créé un compte, vous devriez recevoir un email de confirmation dans votre boîte de réception. Vous pourrez commencer à utiliser l'application immédiatement après avoir cliqué sur le lien de confirmation dans l'email. \n\n➤ Si vous choisissez de vous inscrire avec un compte Google, vous n'aurez qu'à choisir votre sexe avant de commencer à utiliser le app."
+    },
+    {
+      "Q": "Où puis-je utiliser Wahdapp?",
+      "A": "Wahdapp est ouvert à tous les musulmans du monde entier. Cela signifie que vous pouvez l'utiliser où que vous soyez, tant que vous êtes connecté à l'internet!"
+    },
+    {
+      "Q": "Comment puis-je voir les prières dans ma région?",
+      "A": "Vous avez deux options pour le faire:\n\n➤ Vous devriez pouvoir voir une liste des prières qui vont être faites à proximité de votre emplacement actuel. \n\n➤ Sur l'onglet Carte, il y a un bouton en haut de l'écran de la carte écrit “Cherche cette zone”. Après avoir appuyé sur le bouton, le système cherchera les invitations de prières à proximité."
+    },
+    {
+      "Q": "Comment puis-je inviter d'autres personnes à se joindre à ma prière?",
+      "A": "Tout d'abord, accédez à l'écran de la carte. Il y a 4 options que vous pouvez spécifier où la prière va être faite: \n\n➤ Votre emplacement actuel. Il y a un bouton flottant dans le coin inférieur droit de l'écran de la carte, une épingle apparaîtra à votre emplacement actuel juste après avoir appuyé sur le bouton.\n\n➤ Spécifiez en appuyant longuement sur l'écran. Maintenez votre doigt sur l'écran et vous devriez voir une épingle apparaître à l'endroit où vous avez pointé. Vous pouvez également faire glisser l'épingle vers un autre endroit après avoir appuyé longuement sur épingle. \n\n➤ Choisir un lieu déjà enregistré sur Google Maps. Il y a beaucoup d'endroits sur Google Maps dont les noms sont enregistrés, comme des écoles, des bâtiments et même des mosquées. Vous pouvez sélectionner n'importe lequel de ces endroits en appuyant simplement dessus.\n\n➤ Choisir exactement le même endroit que l'une des invitations à la prière passées. Après avoir cherché les prières à proximité sur la carte, vous devriez être en mesure de voir des points verts qui représentent les endroits où certaines des prières passées ont été effectuées. Vous aurez la possibilité de choissir exactement le même endroit après avoir appuyé sur l'un de ces points verts."
+    },
+    {
+      "Q": "Je suis une femme. Puis-je aussi inviter d'autres personnes à la prière?",
+      "A": "Oui. Une fois que vous avez invité, seules les utilisatrices pourront la voir."
+    },
+    {
+      "Q": "Qui peut voir mes invitations à la prière?",
+      "A": "Cela dépend de votre sexe ainsi que de vos préférences de filtrage.\n\n Si vous êtes un homme, vos invitations à la prière seront à la fois visibles pour les hommes et les femmes. Cependant, les femmes ont la possibilité de filtrer les invitations afin qu'elles ne voient que les invitations faites par des femmes. Par défaut, les femmes ne peuvent voir que les invitations des hommes si le nombre de participants est supérieur à 2. Elle peut également choisir d'augmenter ce nombre comme elle le souhaite."
+    }
+  ]
+}

@@ -7,6 +7,7 @@ const localeSubpaths = {
   cn: 'cn',
   tw: 'tw',
   id: 'id',
+  fr: 'fr',
 };
 
 module.exports = withPlugins(

@@ -1,0 +1,41 @@
+{
+  "HEADER": {
+    "TITLE": "La Manière la Plus Innovante de se Rassembler pour les Prières",
+    "SUBTITLE": "Trouvez facilement les prières en congrégation dans votre région"
+  },
+  "BENEFITS": {
+    "TITLE": "Fonctionnalités de l'Application",
+    "LIST": [
+      {
+        "TITLE": "Ségrégation de Genre",
+        "DESC": "Des fonctionnalités distinctes sont fournies aux utilisateurs féminins dans l'utilisation de l'application, notamment le filtrage par sexe et la visibilité des invitations."
+      },
+      {
+        "TITLE": "Multilingue",
+        "DESC": "L'application supporte diverses langues, notamment le chinois, le français, le turc, l'arabe, le russe et bien d'autres encore à venir. N'hésitez pas à nous contacter si vous pouvez nous aider à traduire dans d'autres langues!"
+      },
+      {
+        "TITLE": "Confidentialité des Utilisateurs",
+        "DESC": "L'application mobile ne diffuse aucune publicité et est open-source dans un souci de transparence des informations. Vous pouvez trouver le lien vers le code source au bas de la page."
+      }
+    ]
+  },
+  "EXPLORE": {
+    "TITLE": "Explorer les Communautés Musulmanes",
+    "LIST": [
+      {
+        "TITLE": "Recherche Facile des Places de Prière",
+        "DESC": "Il pourrait y avoir des endroits qui sont étonnamment amicaux et pratiques pour les musulmans pour prier leurs cinq prières quotidiennes!"
+      },
+      {
+        "TITLE": "Rassembler Immédiatement",
+        "DESC": "Dans les cas tels que les funérailles où les gens ont besoin de rassembler autant de personnes que possible dans les plus brefs délais, Wahdapp est une option sans précédent pour aider à rassembler des personnes pour la prière."
+      },
+      {
+        "TITLE": "Liens de Communauté",
+        "DESC": "Wahdapp vise à aider les musulmans à créer un lien plus profond avec leurs propres communautés ainsi qu'une relation plus étroite les uns avec les autres."
+      }
+    ]
+  },
+  "DOWNLOAD": "Télécharger"
+}
